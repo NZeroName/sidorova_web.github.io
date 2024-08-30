@@ -1,4 +1,5 @@
 # Sidorova_Web
+Ссылка для просмотра https://nzeroname.github.io/sidorova_web.github.io/ <br>
 Сайт-портфолио веб-дизайнера.<br>
 
 Проект выполнен на стеке HTML/CSS(SASS)/JS(vanila).<br>
